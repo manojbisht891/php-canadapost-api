@@ -22,7 +22,7 @@
     },
     "autoload": {
         "psr-4": {
-          "CanadaPost\\": "src"
+          "CanadaPost\\": "src/"
         }
     },
     "autoload-dev": {
